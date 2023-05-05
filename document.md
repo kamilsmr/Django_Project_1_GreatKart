@@ -4,6 +4,18 @@
 
 ### Baslik 3
 
+# ÖNEMLİ BİLGİLER FAYDALI SİTELER
+
+- commonmark
+
+- typora
+
+- notion.s.h.
+
+---
+
+---
+
 - istanbul
 - ankara
 
