@@ -53,3 +53,5 @@ python manage.py runserver
 ```
 
 Sonrasında sunucuya 127.0.0.1:8000 yazılır.
+
+9. views.py dosyası oluşturulur ve urls.py dosyası düzenlenir.
